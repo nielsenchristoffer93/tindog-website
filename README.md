@@ -1,2 +1,1 @@
-# tindog-website
-Fictional "Tinder-like" website for dogs.
+TinDog Starting Files
